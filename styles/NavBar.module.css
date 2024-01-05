@@ -1,0 +1,36 @@
+a.navbar__link {
+  position: relative;
+  display: block;
+  padding: 18px 15px;
+  font-family: Lato, sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.3s;
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  border-bottom: 1px solid #f5f5f5;
+  color: #333;
+
+}
+a.navbar__link::after {
+  position: absolute;
+  content: "";
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: #afb42b;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.5s;
+}
+
+a.navbar__link:hover {
+  color: #afb42b ;
+  background-color: #f5f5f5;
+}
+
+a.navbar__link:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}

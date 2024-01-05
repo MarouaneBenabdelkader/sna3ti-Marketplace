@@ -1,0 +1,12 @@
+
+.container1 {
+    
+    background: linear-gradient(45deg, rgb(0, 0, 0, 0.8),rgb(255, 234, 167,0.1)), url('/images/image5.jpg');
+    /* Used if the image is unavailable */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
