@@ -68,3 +68,6 @@ The Sna3ti platform is built with a robust and scalable technical architecture, 
 
 This architecture diagram visually represents the flow of data and interactions across the platform, ensuring all components work together harmoniously to deliver a top-notch e-commerce experience.
 
+![268816550-764beb9d-9d2b-4640-9dcb-e9523db71a90](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/0bf2e1e7-afbc-4840-9d30-03bfec938964)
+
+
