@@ -69,5 +69,18 @@ The Sna3ti platform is built with a robust and scalable technical architecture, 
 This architecture diagram visually represents the flow of data and interactions across the platform, ensuring all components work together harmoniously to deliver a top-notch e-commerce experience.
 
 ![268816550-764beb9d-9d2b-4640-9dcb-e9523db71a90](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/0bf2e1e7-afbc-4840-9d30-03bfec938964)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/edfb571f-352a-43f2-a388-b3267b771f6d)
 
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/614a0a3d-0504-4f23-8ed3-47cbe2c11e01)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/3df122a6-542a-4c3f-a643-174ba9462cd7)
 
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/4d2ab08b-0f86-49da-adcb-b75c400f7994)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/63584a84-f333-47e5-9ce5-e6406cbdb649)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/436a9796-ce0f-4667-accc-0c5cbf0cdf0c)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/d1dccb4c-e4b2-48c2-b6b3-3b96431822a3)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/aa3a6a7b-97b7-4ec9-b555-8f78688bac1d)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/ad89194b-b3b1-4da7-8625-4c04549e2f3b)
+
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/37600412-5e70-447f-9297-c0eb9ac2cc67)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/61ab270c-6703-4235-a03d-0104817a207a)
+![image](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/00253a75-ff90-4c87-9901-8e5b7bce7a9b)
