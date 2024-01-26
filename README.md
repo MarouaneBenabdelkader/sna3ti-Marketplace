@@ -1,6 +1,6 @@
 # Sna3ti: A Marketplace for Local Crafts
 
-Welcome to **Sna3ti**, a unique e-commerce platform developed by Marouane Benabdelkader and Messbahi. 
+Welcome to **Sna3ti**, a unique e-commerce platform developed by Marouane Benabdelkader and Mesbahi. 
 This marketplace is dedicated to elevating local artisans by providing a digital space for them to display and sell their handcrafted products. Sna3ti offers an easy-to-use platform for customers to discover and purchase unique crafts, with features like integrated ratings, tracking, and a simplified purchasing process via WhatsApp. 
 Join us in celebrating and supporting the artistry of local craftsmanship.
 
