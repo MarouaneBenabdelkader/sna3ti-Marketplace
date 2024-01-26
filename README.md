@@ -10,7 +10,7 @@ Join us in celebrating and supporting the artistry of local craftsmanship.
 Below is the architecture diagram of Sna3ti, illustrating the core entities and their relationships within the platform:
 
 
-![use case-class diagramme drawio (2)](https://github.com/MarouaneBenabdelkader/sna3ti/assets/116631044/ec2296cd-9927-4d40-b203-de40258d19ac)
+![use case-class diagramme drawio (2)](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/9c55c08e-35f6-4f47-95c4-e96aa047dc11)
 
 
 
@@ -29,7 +29,7 @@ This structure ensures a modular and scalable approach to managing the various a
 
 The flowchart below outlines the user journey through the Sna3ti platform, highlighting the navigation paths and available features for different user roles:
 
-![Websit_nav](https://github.com/MarouaneBenabdelkader/sna3ti/assets/116631044/f5369e70-fc16-45ea-9575-71a3e271908e)
+![Websit_nav](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/151f4f5e-9268-41b5-9df5-d4aadd50f03e)
 
 
 ### Key Sections:
@@ -51,7 +51,7 @@ Each path is designed to create an intuitive and efficient experience for users,
 
 The Sna3ti platform is built with a robust and scalable technical architecture, ensuring a seamless user experience from frontend to backend. Here is a brief overview of our system design:
 
-![Architecture](https://github.com/MarouaneBenabdelkader/sna3ti/assets/116631044/f8747170-633a-4a01-8e51-15ec9aa27572)
+![Architecture](https://github.com/MarouaneBenabdelkader/sa3ti-Marketplace/assets/116631044/e531363f-085c-4071-8595-a8d618fa0d8c)
 
 ### Frontend
 
