@@ -18,7 +18,7 @@ Below is the architecture diagram of Sna3ti, illustrating the core entities and 
 - `PhoneNumber`: A sub-entity of User that holds phone number information.
 - `Admin`: A specialized user with administrative privileges.
 - `Customer`: Represents customers who can purchase handicrafts and follow artisans.
-- `HandiCraft`: The entity representing the crafts available on the platform.
+- `HandiCraft`: The entity representing the handicrafts available on the platform.
 - `Item`: The individual items for sale.
 - `Rate`: Represents the ratings given by customers to items or artisans.
 - `Following`: Captures the relationship between customers and the artisans they follow.
